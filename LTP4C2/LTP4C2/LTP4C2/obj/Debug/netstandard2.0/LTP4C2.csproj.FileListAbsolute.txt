@@ -1,0 +1,11 @@
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\bin\Debug\netstandard2.0\LTP4C2.deps.json
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\bin\Debug\netstandard2.0\LTP4C2.dll
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\bin\Debug\netstandard2.0\LTP4C2.pdb
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\LTP4C2.AssemblyInfoInputs.cache
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\LTP4C2.AssemblyInfo.cs
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\LTP4C2.dll
+C:\Users\Tiago73\source\repos\LTP4C2\LTP4C2\LTP4C2\obj\Debug\netstandard2.0\LTP4C2.pdb
